@@ -23,7 +23,10 @@ Riset ini merupakan yang pertama kami lakukan untuk menggabungkan ilmu geologi, 
 (laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
 ### Entry 2: 08 Maret 2018
-
+Kriteria pemilihan lokasi pengambilan sampel:
+- terletak pada dua zona interaksi aliran air tanah dan air sungai: zona efluen (gaining stream) dan zona influen (losing stream),
+- menunjukkan dua kondisi tata guna lahan yang berbeda (baik secara ekstrim maupun berangsur): lahan terbuka, lahan campuran, lahan pemukiman, dan kombinasi antara pemukiman dan industri.
+- dilakukan pada musim kemarau untuk mendapatkan gambaran riil kualitas air. Bila dilakukan pada musim hujan, maka hasil pengukuran akan juga mencerminkan proses pengenceran oleh air hujan.
 
 (laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
@@ -47,7 +50,7 @@ Kami sedang melakukan pengambilan data. Beberapa foto dapat dilihat di [blog ris
 
 ## CATATAN BULAN JULI 2018
 ### Entry 1: 5 Juli 2018
-Kami telah selesai mengambil 20 buah sampel kualitas air untuk dianalisis di laboratorium. Sampel diambil di 20 lokasi berbeda yang terletak pada dua zona interaksi air tanah dengan air sungai, yakni zona: zona influen (atau gaining stream) dan zona efluen (atau losing stream). Definisi tentang gaining stream dan losing stream dapat dibaca di [sini](https://dnr.mo.gov/education/documents/losing-streams.pdf).  
+Kami telah selesai mengambil 20 buah sampel kualitas air untuk dianalisis di laboratorium. Sampel diambil di 20 lokasi berbeda yang terletak pada dua zona interaksi air tanah dengan air sungai, yakni zona: zona influen (atau losing stream) dan zona efluen (atau gaining stream). Definisi tentang gaining stream dan losing stream dapat dibaca di [sini](https://dnr.mo.gov/education/documents/losing-streams.pdf).  
 
 (laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
