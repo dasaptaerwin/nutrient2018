@@ -1,5 +1,5 @@
-# nutrient2018
-This repository hosts files related to the following project "Nutrient dynamics at the interface between surface water and groundwater with aquatic vegetation in Cikapundung river". This project is funded by Kemenristekdikti 2018.  The posts in this document were upload as log notebook to the Simlitabmas Server.  
+# nutrient_2018
+This repository hosts files related to the following project **Nutrient dynamics at the interface between surface water and groundwater with aquatic vegetation in Cikapundung river**. This project is funded by Kemenristekdikti 2018.  The posts in this document were upload as log notebook to the Simlitabmas Server.  
 
 Principal team: 
 - [Dasapta Erwin Irawan (PI, ITB)](https://scholar.google.co.id/citations?user=Myvc78MAAAAJ&hl=en) and 
