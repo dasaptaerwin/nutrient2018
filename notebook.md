@@ -78,34 +78,23 @@ Kami telah selesai menyusun daftar pertanyaan yang akan diajukan kepada responde
 
 ## CATATAN BULAN JULI 2018
 ### Entry 1: 4 Juli 2018
+Sampai 
 
+(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
+
+### Entry 2: 30 Juli 2018
+Sampai saat ini kami telah menyelesaikan pengukuran *time series* 
 
 (laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
 ## CATATAN BULAN AGUSTUS 2018
-### Entry 1: 6 Agustus 2018
+### Entry 1: 30 Agustus 2018
+Kondisi bulan Agustus 2018, kami telah menyelesaikan beberapa hal sebagai berikut:
+- studi literatur
+- pengambilan data secara spasial (20 sampel air pada musim kemarau)
+- pengambilan data secara kontinyu (5 lokasi pengukuran, pengukuran dilakukan bersamaan, 2 kali seminggu, selama periode April-Juli)
 
-
-Kami telah selesai membuat transkrip dari seluruh interview yang kami lakukan. Semuanya telah direkam dalam format audio (mp3) dan ditranskripkan dengan format `docx` (Microsoft Word) dan format `md` (Markdown yang berbasis teks).
-
-(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
-
-### Entry 2: 10 Agustus 2018
-
-
-(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
-
-### Entry 3: 27 Agustus 2018
-![Ilustrasi workshop](https://upload.wikimedia.org/wikipedia/commons/c/c2/EWM_shop_2007.jpg)
-Gambar dipinjam dari [Wikimedia Commons, CC-0](https://commons.wikimedia.org/wiki/File:EWM_shop_2007.jpg))
-
-Kami akan melaksanakan pelatihan singkat dua hari dengan judul "Riset kualitatif dan penggunaan NVIVO" yang akan diselenggarakan di Hotel Sawunggaling ITB tanggal 27-28 Agustus 2018 dan di Sekolah Bisnis dan Manajemen ITB pada tanggal 12 Oktober 2018.
-
-(laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
-
-## CATATAN BULAN SEPTEMBER 2018
-### Entry 1: 1 September 2018
-
+Bila dirangkum, hasilnya dapat dilihat pada catatan visual ini (http://flic.kr/p/2bfzdAP).
 
 (laporan ini telah dimuat di blog riset kami, [tautan](https://medium.com/eco-hydrology-of-cikapundung))
 
