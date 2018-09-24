@@ -17,31 +17,43 @@ Beberapa dokumen di bawah ini merupakan referensi penting dalam riset ini:
 - [Correll, 1998](https://www.sciencetheearth.com/uploads/2/4/6/5/24658156/1998_correll_the_role_of_phosphorus_in_the_eutrophication_of_receiving_waters-_a_review.pdf)
 - [Baldwin and Mitchell, 2000](https://onlinelibrary.wiley.com/doi/abs/10.1002/1099-1646(200009/10)16:5%3C457::AID-RRR597%3E3.0.CO;2-B)
 
-# BAB 3 TUJUAN DAN MANFAAT PENELITIAN
+Riset ini sangat terkait dengan dua riset tahun 2017 sebagai berikut:
+- [Aditya dan Irawan, 2017](https://figshare.com/articles/Variasi_kualitas_air_sungai_di_Kawasan_Cimahi_dan_Bandung_Utara/5902009)
+- [Rosada et al., 2017](https://figshare.com/articles/Ecoregion_Cikapundung_Watershed_Based_on_The_Presence_of_Escherichia_coli_--_Poster_Ecodevelopment_2017/5479735)
+- [Rahmadia et al., 2017](https://figshare.com/articles/Cikapundung_watershed_land_cover_characterization_using_SPOT-6_imagery/5425729)
+- [Devi et al., 2017](https://figshare.com/articles/Vegetation_of_riparian_areas_along_Cikapundung_River/5425714)
+
+# BAB 3 TUJUAN DAN MANFAAT PENELITIAN 
 Tujuan dari riset ini adalah untuk mengidentifikasi apakah ada hubungan antara peningkatan kadar nutrisi dalam air sungai dan air tanah di kawasan riparian atau bantaran sungai kepada vegetasi.  
 
 # BAB 4 METODE PENELITIAN
-Metode riset ini telah terdaftar sebagai dokumen preregistration (pra-implementasi) di [OSF-Prereg](https://osf.io/2jnb9/). 
+Metode riset ini adalah sebagai berikut:
+- identifikasi zona vegetasi (revisitasi hasil tahun 2017)
+- pengamatan bantaran sungai secara umum
+- pengukuran muka air tanah dan muka air sungai, serta rekonstruksi aliran air tanah 
+- pengambilan sampel air sungai dan air tanah
+- pengukuran nilai pH, TDS/Salinitas menggunakan strip pengukur
+- analisis spasial hasil pengukuran nutrisi (nitrat dan fosfat) dalam air sungai dan air tanah.
+
 
 # BAB 5 HASIL DAN LUARAN YANG DICAPAI
-Hasil sementara yang didapatkan telah disarikan dan ditulis sebagai laman daring di:
-- Github repository: [Proyek Pub Analytics](https://github.com/dasaptaerwin/pubanalytics)
-- Medium blog: [Cite Score: posisi jurnal Indonesia, potensi sitasi vs tren keilmuan, dan fosil buaya](https://medium.com/open-science-indonesia/cite-score-2017-posisi-jurnal-indonesia-19bb7d5f81ee)
+Hasil sementara yang didapatkan adalah sebagai berikut:
+- 20 sampel masing-masing untuk air tanah dan sungai
+- pengukuran strip kualitas air di lima lokasi, oleh lima orang berbeda, pada waktu yang sama, tiga kali per minggu, selama bulan April s/d Agustus 2018. 
+
+Hasil-hasil tersebut telah disarikan dan ditulis sebagai laman daring di:
+- Github repository: [Proyek Pub Analytics](https://github.com/dasaptaerwin/nutrient2018)
+- Medium blog: [Blog KK Geologi Terapan](https://medium.com/eco-hydrology-of-cikapundung)
+
 
 # BAB 6 RENCANA TAHAP BERIKUTNYA
-Kami akan mencoba menggunakan data dari Scopus dengan percobaan berbagai kata kunci yang kami dapatkan dari Google Trend, mencakup:
-- `machine learning`
-- `crocodylus`
-- `paleoclimate`
-- `climate change`
-- `hydrology, floods`
-- `black hole`
-
-Kelima kata kunci di atas diharapkan dapat mewakili trend keilmuan, dari yang luas cakupannya, seperti `machine learning`, hingga yang sempit lingkupnya, seperti `crocodylus` dan `black hole`. Kami akan ekstraksi 50 artikel teratas dari hasil pencarian dengan sortasi berdasarkan jumlah sitasi, kemudian kami cari nilai JIFnya.
+Pada tahap berikutnya, kami akan melakukan:
+- overlay peta konsentrasi nutrisi dengan peta vegetasi
+- overlay peta konsentrasi nutrisi dengan peta tata guna lahan
 
 # BAB 7 KESIMPULAN DAN SARAN
-Penelitian ini menghasilkan indikasi awal bahwa JIF tidak mempengaruhi jumlah sitasi secara signifikan. Hasil pendataan untuk kasus artikel yang termasuk ke dalam Google Scholar Classic Papers 2016, membuktikan hal tersebut. Faktor lain yag perlu dipertimbangkan adalah bahwa bidang riset juga menentukan kecenderungan korelasi antara JIF dengan jumlah sitasi. Kami menggunakan data Cite Score dalam hal ini. Bidang yang memiliki lingkup luas, sedang trend (bisa dibuktikan dengan Google Trend), maka akan berpeluang memiliki jumlah sitiran yang tinggi, di mana pun artikel tersebut diterbitkan. Hal yang sebaliknya juga demikian. Bidang yang lingkupnya spesifik dan tidak sedang trend, maka memiliki peluang kecil untuk mendapatkan sitasi yang tinggi.
+Penelitian ini menghasilkan indikasi awal bahwa kandungan nutrisi belum pada level yang dapat memicu pertumbuhan vegetasi akuatik pada lingkungan perairan S. Cikapundung. Kesimpulan sementara ini akan kami perbarui sejalan dengan analisis.
 
 # DAFTAR PUSTAKA
-Referensi telah disajikan sebagai tautan.
+Referensi telah disajikan sebagai tautan dalam teks.
 
