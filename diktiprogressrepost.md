@@ -8,13 +8,17 @@ _Nutrient_ atau nutrisi adalah kandungan nitrogen dan fosfor dalam berbagai bent
 
 Yang ingin kami ketahui adalah apakah ada hubungan antara kandungan nutrisi dalam air dengan pertumbuhan vegetasi di bantaran Sungai Cikapundung, apakah konsentrasi nutrisi telah mencapai level dapat memicu tidak hanya mikroorganisme (vegetasi mikro) tetapi juga pertumbuhan vegetasi makro.
 
-Pendahuluan riset ini telah dipublikasikan sebagai dokumen preregistration (pra-implementasi) di [OSF-Prereg](https://osf.io/2jnb9/).
-
 # BAB 2 TINJAUAN PUSTAKA
-Beberapa referensi penting telah disampaikan dalam dokumen preregistration (pra-implementasi) di [OSF-Prereg](https://osf.io/2jnb9/).
+Beberapa dokumen di bawah ini merupakan referensi penting dalam riset ini:
+- [Dennison et al. (1993)](https://www.researchgate.net/profile/Robert_Orth/publication/235938503_Assessing_Water_Quality_with_Submersed_Aquatic_Vegetation/links/02e7e52e053f599fb0000000/Assessing-Water-Quality-with-Submersed-Aquatic-Vegetation.pdf)
+- [Clarke (2002)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1034.5670&rep=rep1&type=pdf)
+- [Peterjohn and Correll, 1984](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.2307/1939127)
+- [Reddy et al., 1989](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.1989.34.6.1004)
+- [Correll, 1998](https://www.sciencetheearth.com/uploads/2/4/6/5/24658156/1998_correll_the_role_of_phosphorus_in_the_eutrophication_of_receiving_waters-_a_review.pdf)
+- [Baldwin and Mitchell, 2000](https://onlinelibrary.wiley.com/doi/abs/10.1002/1099-1646(200009/10)16:5%3C457::AID-RRR597%3E3.0.CO;2-B)
 
 # BAB 3 TUJUAN DAN MANFAAT PENELITIAN
-Tujuan dari riset ini adalah untuk mengidentifikasi pengaruh penerbitan artikel di jurnal dengan JIF tinggi terhadap dampaknya yang dicerminkan dengan jumlah sitiran. Manfaatnya, hasil riset ini dapat memberikan arahan kepada kebijakan pengukuran kinerja riset dan kinerja staf, yang saat ini diwakili oleh [SINTA](sinta2.ristekdikti.go.id). 
+Tujuan dari riset ini adalah untuk mengidentifikasi apakah ada hubungan antara peningkatan kadar nutrisi dalam air sungai dan air tanah di kawasan riparian atau bantaran sungai kepada vegetasi.  
 
 # BAB 4 METODE PENELITIAN
 Metode riset ini telah terdaftar sebagai dokumen preregistration (pra-implementasi) di [OSF-Prereg](https://osf.io/2jnb9/). 
