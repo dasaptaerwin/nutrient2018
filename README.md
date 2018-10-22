@@ -14,7 +14,7 @@ output:
 Cikapundung river (`@dasaptaerwin` via [Rockheadsciences website](http://rockheadsciences.com/irawan-riverbank-hydrochemistry/))
 
 # general
-This repository hosts files related to the following project **Nutrient dynamics at the interface between surface water and groundwater with aquatic vegetation in Cikapundung river**. This project is funded by Kemenristekdikti 2018.  The posts in this document were upload as log notebook to the Simlitabmas Server.  
+This repository hosts files related to the following project **Nutrient dynamics at the interface between surface water and groundwater with aquatic vegetation in Cikapundung river**. This project is funded by Kemenristekdikti 2018.  The posts in this document were upload as log notebook to the Simlitabmas Server. By using this way of sharing our project, we hope to set an example of sharing science as open as we can to get more impact. By `impact` we meant more than just a number.  
 
 # how to use this repository
 Go to: 
